@@ -6,8 +6,7 @@ public class PlayerController : MonoBehaviour
     private PlayerInputActions inputActions;
     private Vector2 moveInput;
 
-    [SerializeField] private float speed = 5f; // visible in Inspector
-
+    [SerializeField] private float speed = 5f;
 
     private void Awake()
     {
@@ -30,6 +29,6 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.linearVelocity = moveInput * moveSpeed;
+        rb.linearVelocity = moveInput * speed;
     }
 }
