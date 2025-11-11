@@ -1,7 +1,7 @@
 # Assignment02_Part2
 
 ## Play the Game
-[[Click here to play](https://your-itch-io-link-here)](https://genesiswarfare.itch.io/dawn-of-the-square)
+[[Click here to play](https://genesiswarfare.itch.io/dawn-of-the-square)
 
 ## Project Overview
 This Unity project was created as part of Assignment 02 – Part 2.  
